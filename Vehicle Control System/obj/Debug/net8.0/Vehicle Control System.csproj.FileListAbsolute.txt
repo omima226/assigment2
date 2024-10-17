@@ -1,0 +1,14 @@
+F:\upskilling\assigment 2\Vehicle Control System\bin\Debug\net8.0\Vehicle Control System.exe
+F:\upskilling\assigment 2\Vehicle Control System\bin\Debug\net8.0\Vehicle Control System.deps.json
+F:\upskilling\assigment 2\Vehicle Control System\bin\Debug\net8.0\Vehicle Control System.runtimeconfig.json
+F:\upskilling\assigment 2\Vehicle Control System\bin\Debug\net8.0\Vehicle Control System.dll
+F:\upskilling\assigment 2\Vehicle Control System\bin\Debug\net8.0\Vehicle Control System.pdb
+F:\upskilling\assigment 2\Vehicle Control System\obj\Debug\net8.0\Vehicle Control System.GeneratedMSBuildEditorConfig.editorconfig
+F:\upskilling\assigment 2\Vehicle Control System\obj\Debug\net8.0\Vehicle Control System.AssemblyInfoInputs.cache
+F:\upskilling\assigment 2\Vehicle Control System\obj\Debug\net8.0\Vehicle Control System.AssemblyInfo.cs
+F:\upskilling\assigment 2\Vehicle Control System\obj\Debug\net8.0\Vehicle Control System.csproj.CoreCompileInputs.cache
+F:\upskilling\assigment 2\Vehicle Control System\obj\Debug\net8.0\Vehicle Control System.dll
+F:\upskilling\assigment 2\Vehicle Control System\obj\Debug\net8.0\refint\Vehicle Control System.dll
+F:\upskilling\assigment 2\Vehicle Control System\obj\Debug\net8.0\Vehicle Control System.pdb
+F:\upskilling\assigment 2\Vehicle Control System\obj\Debug\net8.0\Vehicle Control System.genruntimeconfig.cache
+F:\upskilling\assigment 2\Vehicle Control System\obj\Debug\net8.0\ref\Vehicle Control System.dll

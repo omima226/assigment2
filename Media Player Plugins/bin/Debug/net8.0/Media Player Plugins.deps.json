@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Media Player Plugins/1.0.0": {
+        "runtime": {
+          "Media Player Plugins.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Media Player Plugins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

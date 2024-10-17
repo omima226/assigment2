@@ -1,0 +1,14 @@
+F:\upskilling\assigment 2\Media Player Plugins\bin\Debug\net8.0\Media Player Plugins.exe
+F:\upskilling\assigment 2\Media Player Plugins\bin\Debug\net8.0\Media Player Plugins.deps.json
+F:\upskilling\assigment 2\Media Player Plugins\bin\Debug\net8.0\Media Player Plugins.runtimeconfig.json
+F:\upskilling\assigment 2\Media Player Plugins\bin\Debug\net8.0\Media Player Plugins.dll
+F:\upskilling\assigment 2\Media Player Plugins\bin\Debug\net8.0\Media Player Plugins.pdb
+F:\upskilling\assigment 2\Media Player Plugins\obj\Debug\net8.0\Media Player Plugins.GeneratedMSBuildEditorConfig.editorconfig
+F:\upskilling\assigment 2\Media Player Plugins\obj\Debug\net8.0\Media Player Plugins.AssemblyInfoInputs.cache
+F:\upskilling\assigment 2\Media Player Plugins\obj\Debug\net8.0\Media Player Plugins.AssemblyInfo.cs
+F:\upskilling\assigment 2\Media Player Plugins\obj\Debug\net8.0\Media Player Plugins.csproj.CoreCompileInputs.cache
+F:\upskilling\assigment 2\Media Player Plugins\obj\Debug\net8.0\Media Player Plugins.dll
+F:\upskilling\assigment 2\Media Player Plugins\obj\Debug\net8.0\refint\Media Player Plugins.dll
+F:\upskilling\assigment 2\Media Player Plugins\obj\Debug\net8.0\Media Player Plugins.pdb
+F:\upskilling\assigment 2\Media Player Plugins\obj\Debug\net8.0\Media Player Plugins.genruntimeconfig.cache
+F:\upskilling\assigment 2\Media Player Plugins\obj\Debug\net8.0\ref\Media Player Plugins.dll

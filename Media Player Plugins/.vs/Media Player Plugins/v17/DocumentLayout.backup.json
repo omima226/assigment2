@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\upskilling\\assigment 2\\Media Player Plugins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|f:\\upskilling\\assigment 2\\media player plugins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|f:\\upskilling\\assigment 2\\media player plugins\\mediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|solutionrelative:mediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|f:\\upskilling\\assigment 2\\media player plugins\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|solutionrelative:audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|f:\\upskilling\\assigment 2\\media player plugins\\livestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|solutionrelative:livestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|f:\\upskilling\\assigment 2\\media player plugins\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|solutionrelative:podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|f:\\upskilling\\assigment 2\\media player plugins\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|solutionrelative:video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|f:\\upskilling\\assigment 2\\media player plugins\\imedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EDD7D1-49D8-4C0E-8C05-4F75FC929C5D}|Media Player Plugins.csproj|solutionrelative:imedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MediaPlayer.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Media Player Plugins\\MediaPlayer.cs",
+              "RelativeDocumentMoniker": "MediaPlayer.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Media Player Plugins\\MediaPlayer.cs*",
+              "RelativeToolTip": "MediaPlayer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:07:00.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMedia.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Media Player Plugins\\IMedia.cs",
+              "RelativeDocumentMoniker": "IMedia.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Media Player Plugins\\IMedia.cs*",
+              "RelativeToolTip": "IMedia.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:58:03.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LiveStream.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Media Player Plugins\\LiveStream.cs",
+              "RelativeDocumentMoniker": "LiveStream.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Media Player Plugins\\LiveStream.cs*",
+              "RelativeToolTip": "LiveStream.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:57:24.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Media Player Plugins\\Podcast.cs",
+              "RelativeDocumentMoniker": "Podcast.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Media Player Plugins\\Podcast.cs*",
+              "RelativeToolTip": "Podcast.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:57:05.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Video.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Media Player Plugins\\Video.cs",
+              "RelativeDocumentMoniker": "Video.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Media Player Plugins\\Video.cs*",
+              "RelativeToolTip": "Video.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:56:47.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Media Player Plugins\\Audio.cs",
+              "RelativeDocumentMoniker": "Audio.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Media Player Plugins\\Audio.cs*",
+              "RelativeToolTip": "Audio.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:56:30.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Media Player Plugins\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Media Player Plugins\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:56:00.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

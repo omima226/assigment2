@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\upskilling\\assigment 2\\Vehicle Control System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC9ED49-7A3F-438F-8422-01DE19D47F68}|Vehicle Control System.csproj|f:\\upskilling\\assigment 2\\vehicle control system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC9ED49-7A3F-438F-8422-01DE19D47F68}|Vehicle Control System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC9ED49-7A3F-438F-8422-01DE19D47F68}|Vehicle Control System.csproj|f:\\upskilling\\assigment 2\\vehicle control system\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC9ED49-7A3F-438F-8422-01DE19D47F68}|Vehicle Control System.csproj|solutionrelative:motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC9ED49-7A3F-438F-8422-01DE19D47F68}|Vehicle Control System.csproj|f:\\upskilling\\assigment 2\\vehicle control system\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC9ED49-7A3F-438F-8422-01DE19D47F68}|Vehicle Control System.csproj|solutionrelative:truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC9ED49-7A3F-438F-8422-01DE19D47F68}|Vehicle Control System.csproj|f:\\upskilling\\assigment 2\\vehicle control system\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC9ED49-7A3F-438F-8422-01DE19D47F68}|Vehicle Control System.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC9ED49-7A3F-438F-8422-01DE19D47F68}|Vehicle Control System.csproj|f:\\upskilling\\assigment 2\\vehicle control system\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC9ED49-7A3F-438F-8422-01DE19D47F68}|Vehicle Control System.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Vehicle Control System\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Vehicle Control System\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:37:01.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Vehicle Control System\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Motorcycle.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Vehicle Control System\\Motorcycle.cs",
+              "RelativeToolTip": "Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:34:41.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Vehicle Control System\\Truck.cs",
+              "RelativeDocumentMoniker": "Truck.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Vehicle Control System\\Truck.cs",
+              "RelativeToolTip": "Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:33:44.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Vehicle Control System\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Vehicle Control System\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:33:16.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Vehicle Control System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Vehicle Control System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:17:24.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

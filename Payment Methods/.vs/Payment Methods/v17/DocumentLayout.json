@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\upskilling\\assigment 2\\Payment Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|f:\\upskilling\\assigment 2\\payment methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|f:\\upskilling\\assigment 2\\payment methods\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|solutionrelative:paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|f:\\upskilling\\assigment 2\\payment methods\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|solutionrelative:paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|f:\\upskilling\\assigment 2\\payment methods\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|solutionrelative:ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|f:\\upskilling\\assigment 2\\payment methods\\banktransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|solutionrelative:banktransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|f:\\upskilling\\assigment 2\\payment methods\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9D7B46-405C-462B-9CB5-13EAA5774660}|Payment Methods.csproj|solutionrelative:creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentContext.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Payment Methods\\PaymentContext.cs",
+              "RelativeDocumentMoniker": "PaymentContext.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Payment Methods\\PaymentContext.cs",
+              "RelativeToolTip": "PaymentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:44:32.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Payment Methods\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "IPaymentMethod.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Payment Methods\\IPaymentMethod.cs",
+              "RelativeToolTip": "IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:34:03.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Payment Methods\\PayPal.cs",
+              "RelativeDocumentMoniker": "PayPal.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Payment Methods\\PayPal.cs",
+              "RelativeToolTip": "PayPal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:32:41.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankTransfer.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Payment Methods\\BankTransfer.cs",
+              "RelativeDocumentMoniker": "BankTransfer.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Payment Methods\\BankTransfer.cs",
+              "RelativeToolTip": "BankTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:32:18.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Payment Methods\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "CreditCardPayment.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Payment Methods\\CreditCardPayment.cs",
+              "RelativeToolTip": "CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:31:58.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\upskilling\\assigment 2\\Payment Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\upskilling\\assigment 2\\Payment Methods\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:31:09.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
